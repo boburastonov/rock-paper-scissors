@@ -1,0 +1,18 @@
+:root{
+    --accent-color: #ffffff;
+    --score-bg: #f9f9f9;
+    --score-color: #2A45C2;
+    --score-number-color: #565468;
+    --btn-color: #3B4262;
+    --player-bg: #E9E9E9;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(74deg, rgba(27, 43, 75, 1) 50%, rgba(22, 28, 62, 1) 50%);
+}
